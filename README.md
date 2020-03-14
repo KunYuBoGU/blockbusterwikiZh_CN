@@ -1,0 +1,2 @@
+# blockbusterwikiZh_CN
+存儲blockbuster漢文wiki所需要的圖片
